@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Blake</h1>
-<h3 align="center">A passionate developer from Iowa</h3>
+<h3 align="center">A passionate developer from Iowa attending Carleton College in Northfield, MN!</h3>
 
 - 🔭 I’m currently working on **Disney Plus Clone in React**
+
+- 💼 I'm currently working at QCI (Quality Consulting Inc.) as a Software Developer Intern
 
 - 🌱 I’m currently learning **React and JS**
 
